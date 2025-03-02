@@ -1,0 +1,23 @@
+*{
+   font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
+
+.text-warning {
+   display: none;
+}
+
+span{
+   margin-top: -5px;
+}
+
+#tproducts ,.details{
+   min-height: 220px;
+   border-radius: 20px;
+   box-shadow: 1px 1px 10px 5px grey;
+}
+.container{
+   position: relative;
+}
+
+
